@@ -3,7 +3,7 @@
     <fullName>COE_Level__c</fullName>
     <externalId>false</externalId>
     <label>COE Level</label>
-    <precision>2</precision>
+    <precision>4</precision>
     <required>false</required>
     <scale>0</scale>
     <trackFeedHistory>false</trackFeedHistory>
