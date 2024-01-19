@@ -72,7 +72,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Field_X__c</field>
+                <field>Step__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
