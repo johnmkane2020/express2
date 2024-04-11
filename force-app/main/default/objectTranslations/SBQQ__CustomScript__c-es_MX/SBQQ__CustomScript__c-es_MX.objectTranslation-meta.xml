@@ -9,5 +9,16 @@
         <value>Secuencias de comandos personalizadas</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Custom Script Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Transpilar</label>
+            <section>Transpiling</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de secuencia de comandos</nameFieldLabel>
 </CustomObjectTranslation>

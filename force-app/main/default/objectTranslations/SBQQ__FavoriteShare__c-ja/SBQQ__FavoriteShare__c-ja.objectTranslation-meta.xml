@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>お気に入り共有</value>
     </caseValues>
+    <layouts>
+        <layout>Favorite Share Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>お気に入りの共有名</nameFieldLabel>
 </CustomObjectTranslation>

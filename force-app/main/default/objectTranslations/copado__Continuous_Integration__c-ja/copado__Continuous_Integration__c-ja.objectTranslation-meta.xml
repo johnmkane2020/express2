@@ -8,6 +8,17 @@
         <label><!-- CustomFields --></label>
         <name>copado__CustomFields</name>
     </fieldSets>
+    <layouts>
+        <layout>Continuous Integration Layout</layout>
+        <sections>
+            <label>宛先環境(To)</label>
+            <section>Destination environment</section>
+        </sections>
+        <sections>
+            <label>プレ/ポスト-ビルドオートメーション</label>
+            <section>Pre/Post-Build Automation</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Continuous Integration Name --></nameFieldLabel>
     <sharingReasons>
         <label><!-- Continuous Integration Permission --></label>

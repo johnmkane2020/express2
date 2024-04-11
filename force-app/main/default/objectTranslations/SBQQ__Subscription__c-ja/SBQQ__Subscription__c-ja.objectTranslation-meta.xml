@@ -12,6 +12,25 @@
         <label><!-- Subscription Search Results --></label>
         <name>SBQQ__SubscriptionSearchResults</name>
     </fieldSets>
+    <layouts>
+        <layout>Subscription Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>価格設定情報</label>
+            <section>Pricing Info</section>
+        </sections>
+        <sections>
+            <label>更新情報</label>
+            <section>Renewal Info</section>
+        </sections>
+        <sections>
+            <label>セグメント情報</label>
+            <section>Segment Info</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>サブスクリプション番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Preserve Bundle Structure is checked on Contract, Renewal Quantity cannot be different from Quantity. --></errorMessage>

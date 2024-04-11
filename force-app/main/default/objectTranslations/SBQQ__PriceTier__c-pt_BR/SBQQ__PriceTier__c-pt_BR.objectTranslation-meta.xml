@@ -9,5 +9,16 @@
         <value>Níveis de preço</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Price Tier Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informações de preço</label>
+            <section>Price Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do nível</nameFieldLabel>
 </CustomObjectTranslation>

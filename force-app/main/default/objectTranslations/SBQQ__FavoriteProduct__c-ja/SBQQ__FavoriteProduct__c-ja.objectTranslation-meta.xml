@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>お気に入りの商品</value>
     </caseValues>
+    <layouts>
+        <layout>Favorite Product Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>お気に入りの商品名</nameFieldLabel>
 </CustomObjectTranslation>

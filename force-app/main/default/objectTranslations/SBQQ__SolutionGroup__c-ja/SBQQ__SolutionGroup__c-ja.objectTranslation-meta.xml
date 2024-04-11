@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>ソリューショングループ</value>
     </caseValues>
+    <layouts>
+        <layout>SolutionGroup Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>グループ名</nameFieldLabel>
 </CustomObjectTranslation>

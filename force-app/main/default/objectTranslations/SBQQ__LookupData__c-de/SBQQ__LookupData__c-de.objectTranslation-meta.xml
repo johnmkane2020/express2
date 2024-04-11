@@ -41,5 +41,12 @@
         <value><!-- Nachschlagedaten --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Lookup Data Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nachschlagedaten</nameFieldLabel>
 </CustomObjectTranslation>

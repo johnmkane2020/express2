@@ -41,5 +41,20 @@
         <value><!-- Zusammenfassungsvariablen --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Summary Variable Layout</layout>
+        <sections>
+            <label>Zusammengesetzte Informationen</label>
+            <section>Composite Information</section>
+        </sections>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Filterinformationen</label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Variablenname</nameFieldLabel>
 </CustomObjectTranslation>

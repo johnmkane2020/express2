@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>利用レートカード (予約済み)</value>
     </caseValues>
+    <layouts>
+        <layout>Usage Rate Card Layout</layout>
+        <sections>
+            <label>関連付け</label>
+            <section>Associations</section>
+        </sections>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>利用レートカード名</nameFieldLabel>
     <webLinks>
         <label><!-- CloneWithRelated --></label>

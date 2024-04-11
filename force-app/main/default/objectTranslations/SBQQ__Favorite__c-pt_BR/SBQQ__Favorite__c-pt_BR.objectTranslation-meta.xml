@@ -13,5 +13,12 @@
         <name>SBQQ__FavoritesManager</name>
     </fieldSets>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Favorite Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome favorito</nameFieldLabel>
 </CustomObjectTranslation>

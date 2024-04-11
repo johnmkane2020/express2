@@ -4,6 +4,17 @@
         <label><!-- Compliance_Result_Tab --></label>
         <name>copado__Compliance_Result_Tab</name>
     </fieldSets>
+    <layouts>
+        <layout>Compliance Scan Result Layout</layout>
+        <sections>
+            <label><!-- New Section --></label>
+            <section>New Section</section>
+        </sections>
+        <sections>
+            <label><!-- Related To --></label>
+            <section>Related To</section>
+        </sections>
+    </layouts>
     <recordTypes>
         <description><!-- This record type is used for scan results produced by Copado. --></description>
         <label><!-- Copado --></label>

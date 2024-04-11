@@ -9,5 +9,16 @@
         <value>Scripts personalizados</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Custom Script Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Transpilando</label>
+            <section>Transpiling</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do script</nameFieldLabel>
 </CustomObjectTranslation>

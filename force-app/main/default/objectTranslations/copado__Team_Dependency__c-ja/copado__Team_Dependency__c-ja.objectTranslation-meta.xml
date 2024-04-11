@@ -4,5 +4,20 @@
         <plural>false</plural>
         <value><!-- User Story Dependency --></value>
     </caseValues>
+    <layouts>
+        <layout>User Story Dependency Layout</layout>
+        <sections>
+            <label>成果物</label>
+            <section>Deliverable</section>
+        </sections>
+        <sections>
+            <label>ノート</label>
+            <section>Notes</section>
+        </sections>
+        <sections>
+            <label>チーム依存関係（オプション）</label>
+            <section>Team Dependency (Optional)</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- User Story Dependency Name --></nameFieldLabel>
 </CustomObjectTranslation>

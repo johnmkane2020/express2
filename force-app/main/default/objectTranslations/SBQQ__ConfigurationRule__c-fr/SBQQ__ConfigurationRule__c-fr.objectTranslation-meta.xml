@@ -9,6 +9,13 @@
         <value>Règles de configuration</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Configuration Rule Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>N° de règle</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

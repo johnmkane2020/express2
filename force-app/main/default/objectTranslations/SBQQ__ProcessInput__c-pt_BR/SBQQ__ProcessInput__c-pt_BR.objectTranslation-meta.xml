@@ -9,6 +9,17 @@
         <value>Entradas dos processos</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Process Input Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Filtro de produto</label>
+            <section>Product Filter</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome da entrada</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Both Product Field and Operator must be set if either are set. --></errorMessage>

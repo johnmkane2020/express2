@@ -9,5 +9,12 @@
         <value>Itens de atributos</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Product Attribute Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Número do item</nameFieldLabel>
 </CustomObjectTranslation>
