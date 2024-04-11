@@ -21,5 +21,28 @@
         <name>SBQQ__SegmentedLineEditorSummary</name>
     </fieldSets>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Web Quote Line Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informação de descrição</label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label>Informação do desconto</label>
+            <section>Discount Information</section>
+        </sections>
+        <sections>
+            <label>Informação de precificação</label>
+            <section>Pricing Information</section>
+        </sections>
+        <sections>
+            <label>Informação da assinatura</label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº da linha de cotação</nameFieldLabel>
 </CustomObjectTranslation>

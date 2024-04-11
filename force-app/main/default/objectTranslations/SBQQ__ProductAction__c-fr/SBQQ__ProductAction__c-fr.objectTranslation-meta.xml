@@ -9,6 +9,17 @@
         <value>Actions de produit</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Product Action Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informations sur le filtre</label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>N° d&apos;action du produit</nameFieldLabel>
     <startsWith>Vowel</startsWith>
     <validationRules>

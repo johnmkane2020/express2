@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <quickActions>
+        <label><!-- Generate Default Rule Set --></label>
+        <name>copado__Generate_Default_Rule_Set</name>
+    </quickActions>
     <recordTypes>
         <description><!-- Record Type for CodeScan integration. Requires CodeScan licensing. --></description>
         <label><!-- CodeScan --></label>

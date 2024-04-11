@@ -9,6 +9,17 @@
         <value>Taux d&apos;utilisation (réservé)</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Usage Rate Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Information sur le niveau</label>
+            <section>Tier Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Taux d&apos;utilisation</nameFieldLabel>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

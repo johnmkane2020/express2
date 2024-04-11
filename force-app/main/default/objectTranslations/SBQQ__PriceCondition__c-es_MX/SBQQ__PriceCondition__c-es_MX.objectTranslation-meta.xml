@@ -9,6 +9,17 @@
         <value>Condiciones de precios</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Price Condition Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Información de filtro</label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº de condición</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- If Filter Type is Formula, then Filter Formula cannot be empty. --></errorMessage>

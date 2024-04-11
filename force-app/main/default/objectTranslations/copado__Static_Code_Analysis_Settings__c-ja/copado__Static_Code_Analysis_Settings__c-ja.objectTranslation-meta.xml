@@ -5,6 +5,10 @@
         <value><!-- Static Code Analysis Settings --></value>
     </caseValues>
     <nameFieldLabel><!-- Static Code Analysis Settings Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Generate Default Rule Set --></label>
+        <name>copado__Generate_Default_Rule_Set</name>
+    </quickActions>
     <recordTypes>
         <description><!-- Record Type for CodeScan integration. Requires CodeScan licensing. --></description>
         <label><!-- CodeScan --></label>

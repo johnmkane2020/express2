@@ -12,6 +12,18 @@
         <label><!-- Pipeline Deployment Modal --></label>
         <name>copado__Pipeline_Deployment_Modal</name>
     </fieldSets>
+    <quickActions>
+        <label><!-- Clone Template --></label>
+        <name>copado__Clone_Template</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Execute Template --></label>
+        <name>copado__Execute_Automation_Template</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Export Template --></label>
+        <name>copado__Export_Template</name>
+    </quickActions>
     <recordTypes>
         <description><!-- Create multiple types of deployment steps. (Technical knowledge needed) --></description>
         <label><!-- Advanced (multi-step) --></label>
@@ -44,4 +56,8 @@
         <label><!-- Import_Template --></label>
         <name>copado__Import_Template</name>
     </webLinks>
+    <workflowTasks>
+        <name>copado__Deployment_scheduled</name>
+        <subject><!-- Deployment scheduled --></subject>
+    </workflowTasks>
 </CustomObjectTranslation>

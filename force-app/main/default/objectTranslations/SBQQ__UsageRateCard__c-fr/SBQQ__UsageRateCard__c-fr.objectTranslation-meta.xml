@@ -9,6 +9,17 @@
         <value>Cartes de taux d&apos;utilisation (réservé)</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Usage Rate Card Layout</layout>
+        <sections>
+            <label>Associations</label>
+            <section>Associations</section>
+        </sections>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom de la carte de taux d&apos;utilisation</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <webLinks>

@@ -9,6 +9,13 @@
         <value>Ensembles d&apos;attributs</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Attribute Set Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom de l&apos;ensemble d&apos;attributs</nameFieldLabel>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>

@@ -9,5 +9,12 @@
         <value>Procesos de presupuesto</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Process Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre del proceso</nameFieldLabel>
 </CustomObjectTranslation>

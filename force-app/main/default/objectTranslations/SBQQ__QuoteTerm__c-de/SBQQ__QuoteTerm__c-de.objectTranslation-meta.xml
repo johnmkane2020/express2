@@ -41,6 +41,17 @@
         <value><!-- Angebotsklauseln --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Quote Term Layout</layout>
+        <sections>
+            <label>Text</label>
+            <section>Body</section>
+        </sections>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Klauselnummer</nameFieldLabel>
     <webLinks>
         <label><!-- Translate --></label>

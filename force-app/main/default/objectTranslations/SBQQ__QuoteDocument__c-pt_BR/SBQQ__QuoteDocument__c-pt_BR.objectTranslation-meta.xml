@@ -9,6 +9,13 @@
         <value>Documentos de cotações</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Document Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do documento</nameFieldLabel>
     <webLinks>
         <label><!-- Email --></label>

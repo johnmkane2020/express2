@@ -4,6 +4,13 @@
         <plural>false</plural>
         <value><!-- Pipeline Connection --></value>
     </caseValues>
+    <layouts>
+        <layout>Deployment Flow Step Layout</layout>
+        <sections>
+            <label><!-- Fields Updated By Copado --></label>
+            <section>Fields Updated By Copado</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Pipeline Connection Reference --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Platform for pipeline and Environment must match --></errorMessage>

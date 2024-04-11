@@ -26,16 +26,16 @@
         <label>Invoice Plan</label>
     </customValue>
     <customValue>
-        <fullName>One Time</fullName>
-        <default>false</default>
-        <isActive>false</isActive>
-        <label>One Time</label>
-    </customValue>
-    <customValue>
         <fullName>Usage</fullName>
         <default>false</default>
         <isActive>false</isActive>
         <label>Usage</label>
+    </customValue>
+    <customValue>
+        <fullName>One Time</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>One Time</label>
     </customValue>
     <description>The billing frequency.</description>
     <masterLabel>Billing Frequency</masterLabel>

@@ -21,6 +21,41 @@
         <name>SBQQ__NonCurrentQuoteLockedFields</name>
     </fieldSets>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Layout</layout>
+        <sections>
+            <label>Texte supplémentaire</label>
+            <section>Additional Text</section>
+        </sections>
+        <sections>
+            <label>Coordonnées</label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur le contrat</label>
+            <section>Contract Information</section>
+        </sections>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informations sur la remise</label>
+            <section>Discount Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur le partenaire</label>
+            <section>Partner Information</section>
+        </sections>
+        <sections>
+            <label>Options de devis</label>
+            <section>Quote Options</section>
+        </sections>
+        <sections>
+            <label>Recalcul</label>
+            <section>Recalculating</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Numéro du devis</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

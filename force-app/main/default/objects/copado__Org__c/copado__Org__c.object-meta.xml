@@ -171,8 +171,8 @@
         <customTabListAdditionalFields>copado__Username__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>copado__Validated_Date__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>CREATEDBY_USER</customTabListAdditionalFields>
-        <excludedStandardButtons>Accept</excludedStandardButtons>
         <excludedStandardButtons>ChangeOwner</excludedStandardButtons>
+        <excludedStandardButtons>Accept</excludedStandardButtons>
         <listViewButtons>copado__Add_to_Deployment</listViewButtons>
         <lookupDialogsAdditionalFields>copado__Org_Type__c</lookupDialogsAdditionalFields>
         <lookupDialogsAdditionalFields>copado__Username__c</lookupDialogsAdditionalFields>

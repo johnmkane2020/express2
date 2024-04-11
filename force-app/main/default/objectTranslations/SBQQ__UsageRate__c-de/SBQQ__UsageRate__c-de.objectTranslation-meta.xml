@@ -41,5 +41,16 @@
         <value><!-- Nutzungsgebühren (Reserviert) --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Usage Rate Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Klasseninformationen</label>
+            <section>Tier Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nutzungsrate</nameFieldLabel>
 </CustomObjectTranslation>

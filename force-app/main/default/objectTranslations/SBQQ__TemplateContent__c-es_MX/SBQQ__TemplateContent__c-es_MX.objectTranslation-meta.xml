@@ -9,6 +9,17 @@
         <value>Contenido de plantilla</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Template Content Layout</layout>
+        <sections>
+            <label>Cuerpo</label>
+            <section>Body</section>
+        </sections>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de contenido</nameFieldLabel>
     <webLinks>
         <label><!-- Translate --></label>

@@ -41,5 +41,12 @@
         <value><!-- Zuweisungen der Nutzungsgebührenkarte (Reserviert) --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Usage Rate Card Assignment Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nummer</nameFieldLabel>
 </CustomObjectTranslation>
