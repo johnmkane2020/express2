@@ -8,6 +8,20 @@
         <label><!-- CBM Fields --></label>
         <name>copado__CBM_Fields</name>
     </fieldSets>
+    <layouts>
+        <layout>Git Org Commit Layout</layout>
+        <sections>
+            <label>メタデータの選択</label>
+            <section>MetaData Selections</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Snapshot Commit Layout</layout>
+        <sections>
+            <label>メタデータの選択</label>
+            <section>MetaData Selections</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Commit Name --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- The commit status cannot be &apos;Pending&apos; or &apos;No changes&apos; whenever there is a commit Id. --></errorMessage>

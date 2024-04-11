@@ -41,6 +41,17 @@
         <value><!-- Vorlageninhalte --></value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Template Content Layout</layout>
+        <sections>
+            <label>Text</label>
+            <section>Body</section>
+        </sections>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Inhaltsname</nameFieldLabel>
     <webLinks>
         <label><!-- Translate --></label>

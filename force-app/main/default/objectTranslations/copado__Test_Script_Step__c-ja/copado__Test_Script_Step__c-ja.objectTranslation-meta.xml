@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value><!-- Test Script Step --></value>
     </caseValues>
+    <layouts>
+        <layout>Script Step Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Script Step Name --></nameFieldLabel>
 </CustomObjectTranslation>

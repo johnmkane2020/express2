@@ -4,7 +4,26 @@
         <plural>false</plural>
         <value><!-- Data Set --></value>
     </caseValues>
+    <layouts>
+        <layout>Data Set Layout</layout>
+        <sections>
+            <label><!-- Last File Generation --></label>
+            <section>Last File Generation</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Data Set Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Deploy Data Set --></label>
+        <name>copado__Deploy_Data_Set</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Data Set --></label>
+        <name>copado__Generate_Data_Set</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Remove File Versions --></label>
+        <name>copado__Remove_File_Versions</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- It is not allowed to change the Data Template once the Data Set has been created. Please create a new Data Set. --></errorMessage>
         <name>copado__Prevent_change_Data_Template</name>

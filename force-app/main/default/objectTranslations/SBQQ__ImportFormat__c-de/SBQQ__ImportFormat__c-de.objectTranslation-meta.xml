@@ -41,6 +41,13 @@
         <value><!-- Importformate --></value>
     </caseValues>
     <gender>Neuter</gender>
+    <layouts>
+        <layout>Import Format Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Anzahl Importformate</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- More than 1 unique key defined in Import Column. --></errorMessage>

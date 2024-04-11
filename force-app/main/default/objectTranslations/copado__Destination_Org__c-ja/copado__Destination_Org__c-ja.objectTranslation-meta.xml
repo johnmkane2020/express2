@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value><!-- Destination Credential --></value>
     </caseValues>
+    <layouts>
+        <layout>Destination Org Layout</layout>
+        <sections>
+            <label>進捗</label>
+            <section>Progress</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Destination Credential Number --></nameFieldLabel>
 </CustomObjectTranslation>

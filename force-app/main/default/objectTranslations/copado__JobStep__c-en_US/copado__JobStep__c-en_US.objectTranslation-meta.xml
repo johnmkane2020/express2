@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Job Step Layout</layout>
+        <sections>
+            <label><!-- JSON --></label>
+            <section>JSON</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Complete Manual Task --></label>
+        <name>copado__Complete_Manual_Task</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Execute Manual Step --></label>
+        <name>copado__ExecuteManualStep</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- Execution Sequence is required for Deployment steps --></errorMessage>
         <name>copado__Execution_Sequence_Required</name>

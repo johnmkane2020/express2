@@ -9,6 +9,13 @@
         <value>Coûts</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Cost Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>N° de coût</nameFieldLabel>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

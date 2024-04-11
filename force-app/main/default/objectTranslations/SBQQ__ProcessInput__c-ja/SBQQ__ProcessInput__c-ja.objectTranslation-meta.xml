@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>プロセス入力</value>
     </caseValues>
+    <layouts>
+        <layout>Process Input Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>商品条件</label>
+            <section>Product Filter</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>入力名</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Both Product Field and Operator must be set if either are set. --></errorMessage>

@@ -9,5 +9,12 @@
         <value>Activos suscritos</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Subscribed Asset Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº de activo suscrito</nameFieldLabel>
 </CustomObjectTranslation>

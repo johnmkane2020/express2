@@ -41,5 +41,12 @@
         <value><!-- Attributsätze --></value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Attribute Set Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Name des Attributsatzes</nameFieldLabel>
 </CustomObjectTranslation>

@@ -5,6 +5,22 @@
         <value><!-- Data Template --></value>
     </caseValues>
     <nameFieldLabel><!-- Data Template Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Activate --></label>
+        <name>copado__Activate</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Clone --></label>
+        <name>copado__Clone</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Deactivate --></label>
+        <name>copado__Deactivate</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Export Template --></label>
+        <name>copado__Export_Template</name>
+    </quickActions>
     <webLinks>
         <label><!-- Import_Templates --></label>
         <name>copado__Import_Templates</name>

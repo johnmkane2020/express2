@@ -4,6 +4,21 @@
         <plural>false</plural>
         <value><!-- Environment --></value>
     </caseValues>
+    <layouts>
+        <layout>Environment Layout</layout>
+        <sections>
+            <label>コンプライアンス</label>
+            <section>Compliance</section>
+        </sections>
+        <sections>
+            <label>ページメッセージ</label>
+            <section>Page Messages</section>
+        </sections>
+        <sections>
+            <label><!-- Rollback --></label>
+            <section>Rollback</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Environment Name --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- We do not recommend to set “Run Specified Test” on an environment level, unless you are 100% sure that ALL deployments contain Apex. If this is the case, you can deactivate this Validation Rule. --></errorMessage>

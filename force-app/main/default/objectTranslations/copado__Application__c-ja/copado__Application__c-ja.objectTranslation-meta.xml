@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value><!-- Application --></value>
     </caseValues>
+    <layouts>
+        <layout>Application Layout</layout>
+        <sections>
+            <label><!-- Owners --></label>
+            <section>Owners</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Name --></nameFieldLabel>
 </CustomObjectTranslation>

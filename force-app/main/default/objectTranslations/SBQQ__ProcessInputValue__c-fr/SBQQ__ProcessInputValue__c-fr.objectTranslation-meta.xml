@@ -9,6 +9,13 @@
         <value>Valeurs d&apos;entrée de processus</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Process Input Values Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom de la valeur du processus de devis</nameFieldLabel>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

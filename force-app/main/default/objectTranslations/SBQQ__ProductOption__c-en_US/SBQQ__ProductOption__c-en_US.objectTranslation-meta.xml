@@ -12,6 +12,21 @@
         <label><!-- SearchFilters --></label>
         <name>SBQQ__SearchFilters</name>
     </fieldSets>
+    <layouts>
+        <layout>Product Option Layout</layout>
+        <sections>
+            <label><!-- Advanced Settings --></label>
+            <section>Advanced Settings</section>
+        </sections>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Optional SKU Information --></label>
+            <section>Optional SKU Information</section>
+        </sections>
+    </layouts>
     <validationRules>
         <errorMessage><!-- The &apos;Apply Immediately&apos; field must be checked before providing an &apos;Apply Immediately Context&apos;. Otherwise, please change the &apos;Apply Immediately Context&apos; field to ‘None&apos;. --></errorMessage>
         <name>SBQQ__Apply_Immediately_Context_Validation</name>
