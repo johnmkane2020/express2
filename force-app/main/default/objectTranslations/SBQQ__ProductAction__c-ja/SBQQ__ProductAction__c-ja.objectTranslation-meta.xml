@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>商品アクション</value>
     </caseValues>
+    <layouts>
+        <layout>Product Action Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>条件情報</label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>商品アクション番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Value Attribute required since the Value Field is a global Configuration Attribute field. --></errorMessage>

@@ -9,6 +9,17 @@
         <value>Ações personalizadas</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Custom Action Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Layout</label>
+            <section>Layout</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- URL can&apos;t be empty for Custom Action &quot;Save and Navigate&quot; --></errorMessage>

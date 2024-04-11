@@ -9,5 +9,12 @@
         <value>Categorías de descuentos</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Discount Category Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de la categoría</nameFieldLabel>
 </CustomObjectTranslation>

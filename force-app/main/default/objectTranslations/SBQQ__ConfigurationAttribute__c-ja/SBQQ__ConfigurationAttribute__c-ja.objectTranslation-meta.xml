@@ -4,6 +4,20 @@
         <plural>false</plural>
         <value>設定属性</value>
     </caseValues>
+    <layouts>
+        <layout>Configuration Attribute Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Global Attribute Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>属性の名前</nameFieldLabel>
     <recordTypes>
         <description><!-- Configuration Attribute associated to a product --></description>

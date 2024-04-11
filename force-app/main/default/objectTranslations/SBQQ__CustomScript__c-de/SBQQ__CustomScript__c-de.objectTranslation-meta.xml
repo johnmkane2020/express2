@@ -41,5 +41,16 @@
         <value><!-- Benutzerdefinierte Skripts --></value>
     </caseValues>
     <gender>Neuter</gender>
+    <layouts>
+        <layout>Custom Script Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Code wird übersetzt</label>
+            <section>Transpiling</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Skriptname</nameFieldLabel>
 </CustomObjectTranslation>

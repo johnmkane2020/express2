@@ -9,5 +9,12 @@
         <value>Produtos favoritos</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Favorite Product Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do produto favorito</nameFieldLabel>
 </CustomObjectTranslation>

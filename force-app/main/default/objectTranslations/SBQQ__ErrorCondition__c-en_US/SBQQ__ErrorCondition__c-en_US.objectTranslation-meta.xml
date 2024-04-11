@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Error Condition Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Filter Information --></label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <validationRules>
         <errorMessage><!-- A Filter Type of &apos;Variable&apos; must have a Filter Variable. --></errorMessage>
         <name>SBQQ__FilterCombinationValidation</name>

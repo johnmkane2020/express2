@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>ルックアップデータ</value>
     </caseValues>
+    <layouts>
+        <layout>Lookup Data Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>ルックアップデータ</nameFieldLabel>
 </CustomObjectTranslation>

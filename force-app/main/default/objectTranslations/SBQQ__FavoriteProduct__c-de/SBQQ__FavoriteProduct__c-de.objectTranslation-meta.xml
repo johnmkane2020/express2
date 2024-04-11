@@ -41,5 +41,12 @@
         <value><!-- Favorisierte Produkte --></value>
     </caseValues>
     <gender>Neuter</gender>
+    <layouts>
+        <layout>Favorite Product Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Name des favorisierten Produkts</nameFieldLabel>
 </CustomObjectTranslation>

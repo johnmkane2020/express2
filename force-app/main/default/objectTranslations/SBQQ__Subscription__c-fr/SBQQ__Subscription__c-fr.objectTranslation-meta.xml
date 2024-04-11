@@ -17,6 +17,25 @@
         <name>SBQQ__SubscriptionSearchResults</name>
     </fieldSets>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Subscription Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informations de tarification</label>
+            <section>Pricing Info</section>
+        </sections>
+        <sections>
+            <label>Informations sur le renouvellement</label>
+            <section>Renewal Info</section>
+        </sections>
+        <sections>
+            <label>Informations sur le segment</label>
+            <section>Segment Info</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>N° d&apos;abonnement</nameFieldLabel>
     <startsWith>Vowel</startsWith>
     <validationRules>

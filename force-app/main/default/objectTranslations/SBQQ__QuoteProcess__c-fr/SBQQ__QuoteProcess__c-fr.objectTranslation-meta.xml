@@ -9,6 +9,13 @@
         <value>Processus de devis</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Process Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom du processus</nameFieldLabel>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

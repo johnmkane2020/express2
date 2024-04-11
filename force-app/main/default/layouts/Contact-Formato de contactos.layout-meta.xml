@@ -26,8 +26,8 @@
                 <field>Title</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Nickname__c</field>
+                <behavior>Required</behavior>
+                <field>Copado_External_ID__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

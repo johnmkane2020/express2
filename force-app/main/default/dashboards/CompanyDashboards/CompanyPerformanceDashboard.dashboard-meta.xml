@@ -188,6 +188,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
+    <owner>jkane+express2@copado.com</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>

@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>価格アクション</value>
     </caseValues>
+    <layouts>
+        <layout>Price Action Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>価格アクションソース</label>
+            <section>Price Action Sources</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>アクション番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Price Action Target Object does not match Evaluation Scope --></errorMessage>
