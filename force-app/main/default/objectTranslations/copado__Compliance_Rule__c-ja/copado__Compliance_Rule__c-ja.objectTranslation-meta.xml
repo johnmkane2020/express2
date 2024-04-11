@@ -8,6 +8,13 @@
         <label><!-- Criteria Page Fields --></label>
         <name>copado__Criteria_Page_Fields</name>
     </fieldSets>
+    <layouts>
+        <layout>Compliance Rule Layout</layout>
+        <sections>
+            <label>ルールの詳細</label>
+            <section>Rule Detail</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Compliance Rule Name --></nameFieldLabel>
     <recordTypes>
         <description><!-- Use this record type to define scan rules run by Copado. --></description>

@@ -33,6 +33,33 @@
         <name>SBQQ__SummaryFields</name>
     </fieldSets>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Quote Line Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informations de description</label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label>Informations sur la remise</label>
+            <section>Discount Information</section>
+        </sections>
+        <sections>
+            <label>Informations de tarification</label>
+            <section>Pricing Information</section>
+        </sections>
+        <sections>
+            <label>Recalcul</label>
+            <section>Recalculating</section>
+        </sections>
+        <sections>
+            <label>Informations sur l&apos;abonnement</label>
+            <section>Subscription Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom de la ligne</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <validationRules>

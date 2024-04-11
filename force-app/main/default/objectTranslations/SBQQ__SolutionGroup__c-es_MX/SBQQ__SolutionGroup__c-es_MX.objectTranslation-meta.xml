@@ -9,5 +9,12 @@
         <value>Grupos de soluciones</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>SolutionGroup Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre del grupo</nameFieldLabel>
 </CustomObjectTranslation>

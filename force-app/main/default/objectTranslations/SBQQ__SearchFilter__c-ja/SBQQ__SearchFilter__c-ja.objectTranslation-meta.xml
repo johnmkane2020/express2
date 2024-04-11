@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>検索条件</value>
     </caseValues>
+    <layouts>
+        <layout>Search Filter Layout</layout>
+        <sections>
+            <label>詳細情報</label>
+            <section>Advanced Information</section>
+        </sections>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>検索条件名</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- You must select Filter Source Object when Filter Source Field is selected. --></errorMessage>

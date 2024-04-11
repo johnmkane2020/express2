@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>利用レートカード割り当て (予約済み)</value>
     </caseValues>
+    <layouts>
+        <layout>Usage Rate Card Assignment Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>番号</nameFieldLabel>
 </CustomObjectTranslation>

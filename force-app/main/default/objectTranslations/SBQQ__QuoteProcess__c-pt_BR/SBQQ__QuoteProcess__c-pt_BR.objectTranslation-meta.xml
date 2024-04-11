@@ -9,5 +9,12 @@
         <value>Processos de cotação</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Process Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do processo</nameFieldLabel>
 </CustomObjectTranslation>

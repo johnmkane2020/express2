@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>オプション制約</value>
     </caseValues>
+    <layouts>
+        <layout>Option Constraint Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>制約名</nameFieldLabel>
 </CustomObjectTranslation>

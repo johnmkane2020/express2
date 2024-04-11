@@ -9,6 +9,13 @@
         <value>Documents de devis</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Document Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nom du document</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <webLinks>

@@ -56,6 +56,10 @@
                 <behavior>Readonly</behavior>
                 <field>copado__Platform__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Work__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -306,6 +310,11 @@
             <sortOrder>5</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>copado__Run_Static_Code_Analysis</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>8</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>copado__Add_Metadata</actionName>
             <actionType>CustomButton</actionType>
             <sortOrder>6</sortOrder>
@@ -314,11 +323,6 @@
             <actionName>copado__Apex_Test</actionName>
             <actionType>CustomButton</actionType>
             <sortOrder>7</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>copado__Run_Static_Code_Analysis</actionName>
-            <actionType>CustomButton</actionType>
-            <sortOrder>8</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>copado__Manage_Selenium_Tests</actionName>

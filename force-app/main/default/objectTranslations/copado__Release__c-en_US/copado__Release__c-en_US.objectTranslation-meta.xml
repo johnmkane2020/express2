@@ -4,6 +4,17 @@
         <label><!-- Copado Header Fields --></label>
         <name>copado__Copado_Header_Fields</name>
     </fieldSets>
+    <layouts>
+        <layout>Release Layout</layout>
+        <sections>
+            <label><!-- Advanced --></label>
+            <section>Advanced</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Set Release Version --></label>
+        <name>copado__Set_Release_Version</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- please dont include spaces in version field --></errorMessage>
         <name>copado__Validate_spaces_in_version</name>

@@ -4,6 +4,30 @@
         <label><!-- Copado Header Fields --></label>
         <name>copado__Copado_Header_Fields</name>
     </fieldSets>
+    <quickActions>
+        <label><!-- Authenticate --></label>
+        <name>copado__Authenticate</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Copado DX --></label>
+        <name>copado__Copado_DX</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Open Credential --></label>
+        <name>copado__Open_Credential</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Run All Test --></label>
+        <name>copado__Run_All_Test</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Run Compliance Scan --></label>
+        <name>copado__Run_Compliance_Scan</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Run Static Code Analysis --></label>
+        <name>copado__Run_Static_Code_Analysis</name>
+    </quickActions>
     <webLinks>
         <label><!-- Add_to_Deployment --></label>
         <name>copado__Add_to_Deployment</name>

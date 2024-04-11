@@ -41,5 +41,12 @@
         <value><!-- Angebotsprozesse --></value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Process Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Prozessname</nameFieldLabel>
 </CustomObjectTranslation>

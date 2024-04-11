@@ -20,6 +20,10 @@
         <label><!-- Snapshot Waiting Page --></label>
         <name>copado__Snapshot_Waiting_Page</name>
     </fieldSets>
+    <quickActions>
+        <label><!-- Take Snapshot Now --></label>
+        <name>copado__Take_Snapshot_Now</name>
+    </quickActions>
     <webLinks>
         <label><!-- Select_Branch --></label>
         <name>copado__Select_Branch</name>

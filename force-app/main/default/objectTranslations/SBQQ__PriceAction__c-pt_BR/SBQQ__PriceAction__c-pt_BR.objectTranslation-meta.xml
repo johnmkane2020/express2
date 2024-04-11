@@ -9,6 +9,17 @@
         <value>Ações de preços</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Price Action Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Origens de ação de preço</label>
+            <section>Price Action Sources</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº da ação</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Price Action Target Object does not match Evaluation Scope --></errorMessage>

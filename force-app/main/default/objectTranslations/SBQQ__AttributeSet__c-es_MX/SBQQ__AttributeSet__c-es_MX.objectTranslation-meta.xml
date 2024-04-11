@@ -9,5 +9,12 @@
         <value>Conjuntos de atributos</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Attribute Set Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre del conjunto de atributos</nameFieldLabel>
 </CustomObjectTranslation>

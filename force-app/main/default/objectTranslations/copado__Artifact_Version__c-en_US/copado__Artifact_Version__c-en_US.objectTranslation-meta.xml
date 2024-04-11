@@ -8,6 +8,53 @@
         <label><!-- SFDX Package Version Lightning Page --></label>
         <name>cmcSf__SFDX_PackageVersion_CustomFields</name>
     </fieldSets>
+    <layouts>
+        <layout>Artifact Version Layout</layout>
+        <sections>
+            <label><!-- Package Version Details --></label>
+            <section>Package Version Details</section>
+        </sections>
+        <sections>
+            <label><!-- Release Details --></label>
+            <section>Release Details</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Configure Package Version From Git --></label>
+        <name>cmcSf__Configure_Package_Version_From_Git</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Package Version --></label>
+        <name>cmcSf__GeneratePackageVersionSFDX</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Publish Package Version --></label>
+        <name>cmcSf__PublishPackageVersionSFDX</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Update Installation Key --></label>
+        <name>cmcSf__UpdateInstallationKey</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Update Package Version Info --></label>
+        <name>cmcSf__Update_Package_Version_Info</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Edit Configuration --></label>
+        <name>copado__EditConfiguration</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Package Version --></label>
+        <name>copado__GeneratePackageVersion</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Lock Bundle --></label>
+        <name>copado__Lock_Bundle</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Publish Package Version --></label>
+        <name>copado__PublishPackageVersion</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- The API version specified is not valid. It must be in the format, Number.0 --></errorMessage>
         <name>cmcSf__Api_Version_Format</name>

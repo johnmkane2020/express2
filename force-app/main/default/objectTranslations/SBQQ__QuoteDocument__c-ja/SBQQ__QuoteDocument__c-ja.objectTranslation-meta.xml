@@ -4,6 +4,13 @@
         <plural>false</plural>
         <value>見積ドキュメント</value>
     </caseValues>
+    <layouts>
+        <layout>Quote Document Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>ドキュメント名</nameFieldLabel>
     <webLinks>
         <label><!-- Email --></label>

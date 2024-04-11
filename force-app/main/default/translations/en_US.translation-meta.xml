@@ -2,6 +2,96 @@
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <customApplications>
         <description xsi:nil="true"/>
+        <label><!-- Agile Accelerator --></label>
+        <name>Agile_Accelerator</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Agile Accelerator --></label>
+        <name>Agile_Accelerator_LEX</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- CMC SFDX --></label>
+        <name>CMC_SFDX</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Release Manager --></label>
+        <name>Copado</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Tests --></label>
+        <name>CopadoTests</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Express --></label>
+        <name>Copado_1_Express</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Pipeline Manager --></label>
+        <name>Copado_Branch_Management</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Pipeline Manager --></label>
+        <name>Copado_Branch_Management_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Developer --></label>
+        <name>Copado_Change_Management</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Developer --></label>
+        <name>Copado_Change_Management_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Compliance Hub --></label>
+        <name>Copado_Compliance_Hub</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Console --></label>
+        <name>Copado_Console</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Express Console --></label>
+        <name>Copado_Express_Console</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Release Manager --></label>
+        <name>Copado_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Permissioner --></label>
+        <name>Copado_Permissioner</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Plan --></label>
+        <name>Copado_Plan</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Plan --></label>
+        <name>Copado_Plan_Lightning</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Copado Selenium Testing --></label>
+        <name>Copado_Selenium_Testing</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
         <label><!-- Express Setup --></label>
         <name>Express_Setup</name>
     </customApplications>
@@ -9,6 +99,16 @@
         <description xsi:nil="true"/>
         <label><!-- Platform --></label>
         <name>Platform</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Salesforce CPQ --></label>
+        <name>QuoteQuickly</name>
+    </customApplications>
+    <customApplications>
+        <description xsi:nil="true"/>
+        <label><!-- Value  Stream Maps --></label>
+        <name>Value_Stream_Maps</name>
     </customApplications>
     <customLabels>
         <label><!-- Page Header --></label>
@@ -3351,6 +3451,278 @@
         <name>SBQQ__showAvailableUpgrades</name>
     </customLabels>
     <customLabels>
+        <label><!-- Acceptance Criteria --></label>
+        <name>agf__ADM_AcceptanceCriteria</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Description --></label>
+        <name>agf__ADM_AcceptanceCriteria_Description</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Name --></label>
+        <name>agf__ADM_AcceptanceCriteria_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Status --></label>
+        <name>agf__ADM_AcceptanceCriteria_Status</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Add Assignee --></label>
+        <name>agf__ADM_Add_Assignee</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Bugs --></label>
+        <name>agf__ADM_Bugs</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cancel --></label>
+        <name>agf__ADM_Cancel</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Chatter tab --></label>
+        <name>agf__ADM_Chatter</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Color Selector --></label>
+        <name>agf__ADM_Color_Selector</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No Color --></label>
+        <name>agf__ADM_Color_Selector_No_Color</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Work has already been committed to this sprint --></label>
+        <name>agf__ADM_Commitment_Exists_On_Sprint</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Let user know what happens when they delete the column. --></label>
+        <name>agf__ADM_Confirm_Delete_Column_Footer_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default --></label>
+        <name>agf__ADM_Default</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Default Priority --></label>
+        <name>agf__ADM_Default_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Definition of Ready Met --></label>
+        <name>agf__ADM_Definition_of_Ready_Met</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Details tab --></label>
+        <name>agf__ADM_Details</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Color --></label>
+        <name>agf__ADM_Edit_Color</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error --></label>
+        <name>agf__ADM_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Closing_Non_Deterministic_Test</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Closing_Test_Failure</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_Error_Msg_Required_Field</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This validation error message is visible in the UI --></label>
+        <name>agf__ADM_File_Upload_Error</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This message is visible in the UI --></label>
+        <name>agf__ADM_File_Uploaded_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- This message is visible in the UI --></label>
+        <name>agf__ADM_Files_Uploaded_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Help me decide --></label>
+        <name>agf__ADM_Help_Me_Decide</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Investigations --></label>
+        <name>agf__ADM_Investigations</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- New --></label>
+        <name>agf__ADM_New</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OK --></label>
+        <name>agf__ADM_OK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Overridden --></label>
+        <name>agf__ADM_Overridden</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Override --></label>
+        <name>agf__ADM_Override</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Override Priority --></label>
+        <name>agf__ADM_Override_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Priority --></label>
+        <name>agf__ADM_Priority</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Priority is a required field --></label>
+        <name>agf__ADM_Priority_Field_Required</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Favorite Product Tags --></label>
+        <name>agf__ADM_Product_Tag_Favorites</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text displayed in the header of the favorite product tags config component --></label>
+        <name>agf__ADM_Product_Tag_Favorites_Header_Text</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Product Tag Name --></label>
+        <name>agf__ADM_Product_Tag_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- You have not set any favorite product tags. --></label>
+        <name>agf__ADM_Product_Tag_No_Favorites</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Save --></label>
+        <name>agf__ADM_Save</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Confirm --></label>
+        <name>agf__ADM_Sprint_Commitment_Confirm</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast Confirmation --></label>
+        <name>agf__ADM_Sprint_Commitment_Confirmation</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Forecast --></label>
+        <name>agf__ADM_Sprint_Commitment_Forecast</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Would you like to proceed message on Sprint Forecast modal --></label>
+        <name>agf__ADM_Sprint_Commitment_Proceed</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Your sprint contains work items with the following statuses: --></label>
+        <name>agf__ADM_Sprint_Commitment_Sprint_Contains_NonVelocity_Items_1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Message shown on forecast modal if sprint contains non-velocity statuses --></label>
+        <name>agf__ADM_Sprint_Commitment_Sprint_Contains_NonVelocity_Items_2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Total Work Count --></label>
+        <name>agf__ADM_Sprint_Commitment_Total_Work_Count</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Successfully enabled status mapping updates for the sprint board. --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Success_Body</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Success_Heading</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Warning shown when Prefer_Board_Column_Auto_Update__c is set to false --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- click here --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Button_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Close</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Board_Auto_Update_Warning_Warning</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close Sprint --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Header_Close_Sprint</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Days Left --></label>
+        <name>agf__ADM_Sprint_VirtualWall_Header_Days_Left</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Story Points --></label>
+        <name>agf__ADM_Story_Points</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Success toast title --></label>
+        <name>agf__ADM_Success</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Tasks --></label>
+        <name>agf__ADM_Tasks</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Team Name --></label>
+        <name>agf__ADM_Team_Name</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- To Do --></label>
+        <name>agf__ADM_To_Do</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- User Stories --></label>
+        <name>agf__ADM_User_Stories</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- View All --></label>
+        <name>agf__ADM_View_All</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Create Work --></label>
+        <name>agf__ADM_Work_Create</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Edit Work --></label>
+        <name>agf__ADM_Work_Edit</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- No custom fields have been defined for this Product Tag. --></label>
+        <name>agf__ADM_Work_Page_No_Custom_Product_Tag_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Product Tag Fields --></label>
+        <name>agf__ADM_Work_Page_Product_Tag_Fields</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Informational text for work priority override modal --></label>
+        <name>agf__ADM_Work_Priority_Override</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Themes --></label>
+        <name>agf__ADM_Work_Theme_Modal_Basic_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Search available Themes --></label>
+        <name>agf__ADM_Work_Theme_Modal_Input_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Error Message Start --></label>
+        <name>agf__Acceptance_Criteria_ErrorMessage_Start</name>
+    </customLabels>
+    <customLabels>
         <label><!-- AddApexTests --></label>
         <name>cmcSf__AddApexTests</name>
     </customLabels>
@@ -4709,6 +5081,146 @@
     <customLabels>
         <label><!-- force-app --></label>
         <name>cmcSf__force_app</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for the &apos;Ask OpenAI&apos; textarea --></label>
+        <name>copadoAiHelper__CHAT_ASK_OPENAI_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- review/edit the information to be sent... --></label>
+        <name>copadoAiHelper__CHAT_ASK_OPENAI_PLACEHOLDER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for the &apos;Clear conversation&apos; button --></label>
+        <name>copadoAiHelper__CHAT_CLEAR_CONVERSATION_BUTTON_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Prompt using Apex String.format() ... {0} and {1} are the object name and info --></label>
+        <name>copadoAiHelper__CHAT_GENERIC_PROMPT_FORMAT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Given the following list of field names and values... --></label>
+        <name>copadoAiHelper__CHAT_GENERIC_PROMPT_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copado legal agreements --></label>
+        <name>copadoAiHelper__CHAT_OPENAI_PRIVACY_POLICY_LINK</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select a topic to start the conversation. --></label>
+        <name>copadoAiHelper__CHAT_SELECT_PROMPT_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Placeholder for the select prompt in the chat --></label>
+        <name>copadoAiHelper__CHAT_SELECT_PROMPT_PLACEHOLDER</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Label for the &apos;Send&apos; button --></label>
+        <name>copadoAiHelper__CHAT_SEND_BUTTON_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Close --></label>
+        <name>copadoAiHelper__CLOSE_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copy to Clipboard --></label>
+        <name>copadoAiHelper__COPY_TO_CLIPBOARD</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- As a --></label>
+        <name>copadoAiHelper__DEFINITION_AS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- So that --></label>
+        <name>copadoAiHelper__DEFINITION_REASON</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Want to --></label>
+        <name>copadoAiHelper__DEFINITION_WANT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ERROR --></label>
+        <name>copadoAiHelper__ERROR</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Field is empty --></label>
+        <name>copadoAiHelper__FIELD_EMPTY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Text that will be used when a replacement variable {VARIABLE} is empty or null. --></label>
+        <name>copadoAiHelper__FIELD_EMPTY_PROMPT_TEXT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- HEADER LABEL --></label>
+        <name>copadoAiHelper__HEADER_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Empty fields for the prompt --></label>
+        <name>copadoAiHelper__LABEL_EMPTY_FIELDS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LOADING --></label>
+        <name>copadoAiHelper__LOADING</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- OpenAI system Role --></label>
+        <name>copadoAiHelper__OPENAI_ROLE</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Copado AI Helper --></label>
+        <name>copadoAiHelper__PREVIEW_MODAL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- PREVIEW_REQUEST --></label>
+        <name>copadoAiHelper__PREVIEW_REQUEST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Refer to Privacy Policy --></label>
+        <name>copadoAiHelper__PRIVACY_POLICY</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Preview your request (prompt) --></label>
+        <name>copadoAiHelper__PROMPT_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Rate Limit --></label>
+        <name>copadoAiHelper__RATE_LIMIT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Recommended Improvement --></label>
+        <name>copadoAiHelper__RECOMMENDATION_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Select fields: --></label>
+        <name>copadoAiHelper__SELECT_FIELDS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SUBMIT_REQUEST --></label>
+        <name>copadoAiHelper__SUBMIT_REQUEST</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SUCCESS --></label>
+        <name>copadoAiHelper__SUCCESS</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Suggestion copied --></label>
+        <name>copadoAiHelper__SUGGESTION_COPIED</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- SUGGESTION LABEL --></label>
+        <name>copadoAiHelper__SUGGESTION_LABEL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- HEADER LABEL --></label>
+        <name>copadoAiHelper__USER_STORY_PROMPT</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Use AI --></label>
+        <name>copadoAiHelper__USE_AI</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- WARNING --></label>
+        <name>copadoAiHelper__WARNING</name>
     </customLabels>
     <customLabels>
         <label><!-- AcceptanceCriteriaBannerMessageOnEdit --></label>
@@ -18430,10 +18942,1577 @@
         <label><!-- Values --></label>
         <name>copadovsm__Values</name>
     </customLabels>
+    <customPageWebLinks>
+        <label><!-- Configure Salesforce CPQ --></label>
+        <name>ConfigureQuoteQuickly</name>
+    </customPageWebLinks>
+    <customTabs>
+        <label><!-- Kanban Board --></label>
+        <name>ADM_Kanban_Board</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Backlog Manager --></label>
+        <name>ADM_Unified_Wall</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Account Summary --></label>
+        <name>Account_Summary</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Data --></label>
+        <name>Commit_Data</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Compliance Getting Started --></label>
+        <name>Compliance_Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado DX Panel --></label>
+        <name>Copado_DX_Panel</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Classic Copado License Manager --></label>
+        <name>Copado_License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado Actions API --></label>
+        <name>Copado_Webhooks</name>
+    </customTabs>
     <customTabs>
         <label><!-- DevOps Exchange by Copado --></label>
         <name>DevOps_Exchange_by_Copado</name>
     </customTabs>
+    <customTabs>
+        <label><!-- Getting Started --></label>
+        <name>Getting_Started</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Settings --></label>
+        <name>Gus_Settings</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado License Manager --></label>
+        <name>License_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- My Current Teams --></label>
+        <name>MyTeam</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- My Teams --></label>
+        <name>My_Teams</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Notifications Center --></label>
+        <name>Notifications_Center</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Permission Set Explorer --></label>
+        <name>Permission_Set_Explorer</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Pipeline Manager --></label>
+        <name>Pipeline_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Promotion Rollback --></label>
+        <name>Promotion_Rollback</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Selenium Getting Started --></label>
+        <name>SeleniumGettingStarted</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Copado Extensions --></label>
+        <name>StandardRecordStatus</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Commit Changes --></label>
+        <name>User_Story_Commit</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Work Manager --></label>
+        <name>Work_Manager</name>
+    </customTabs>
+    <customTabs>
+        <label><!-- Work Manager --></label>
+        <name>Work_Manager</name>
+    </customTabs>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Account_Create_Update</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>ClearAllData</name>
+            </choices>
+            <choices>
+                <name>ClearInstances</name>
+            </choices>
+            <screens>
+                <fields>
+                    <name>AllWarning</name>
+                </fields>
+                <name>AllDataWarning</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Clear_Data</name>
+                </fields>
+                <name>Clear_Choice_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>ErrorMessage</name>
+                </fields>
+                <name>ErrorScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>InstancesWarningMessage</name>
+                </fields>
+                <name>InstancesWarning</name>
+            </screens>
+        </flows>
+        <fullName>Clear_Data_Choice_Screen_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Enforce_Shared_Org_Credential_Model_Default_TRUE</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>User_Story_Create_Update</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>Work_Create_Update</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Apex_Test_Record_Automation</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Commit_Function_Callback</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__CreatePackageVersion</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Create_Package</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Deploy_Function_Callback</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>distributionTypeEnvironment</name>
+            </choices>
+            <choices>
+                <name>distributionTypePipeline</name>
+            </choices>
+            <screens>
+                <fields>
+                    <name>LicenseCheckErrorMessage</name>
+                </fields>
+                <name>LicenseCheckErrorScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>NoLicenseWarning</name>
+                </fields>
+                <name>NoLicenseScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>NoPermissionWarning</name>
+                </fields>
+                <name>NoPermissionScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>selectDistributionType</name>
+                </fields>
+                <name>selectDistributionTypeScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>selectPackageVersion</name>
+                </fields>
+                <fields>
+                    <name>selectPackageVersionHeader</name>
+                </fields>
+                <name>selectPackageVersionScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>selectPackageVersionWarning</name>
+                </fields>
+                <name>selectPackageVersionWarningScreen</name>
+            </screens>
+            <textTemplates>
+                <name>packageDependencyTemplate</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__DistributePackage</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>SecurityTypeOnlyForAdmins</name>
+            </choices>
+            <choices>
+                <name>SecuritytypeAllUsers</name>
+            </choices>
+            <screens>
+                <fields>
+                    <name>Confirm_Credential_Header</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>usageType</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_Credentials</name>
+                </fields>
+                <name>Confirm_Credentials_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Advanced_Installation_Options</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Advanced_Installation_Options_Column1</name>
+                </fields>
+                <fields>
+                    <name>Confirm_Package_Details_Header</name>
+                </fields>
+                <fields>
+                    <name>Confirm_Package_Selection_Screen_Section1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_Package_Selection_Screen_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_Package_Selection_Screen_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>Installation_Security_Type</name>
+                </fields>
+                <fields>
+                    <name>Package_Details</name>
+                </fields>
+                <fields>
+                    <name>Package_Version_Details</name>
+                </fields>
+                <name>Confirm_Package_Selection_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Deployment_Page_Header</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>pkgVersionId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Distribute_Package</name>
+                </fields>
+                <name>Deployment_Page_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>usageType</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Select_Credentials</name>
+                </fields>
+                <fields>
+                    <name>Select_Credentials_Header</name>
+                </fields>
+                <name>Select_Credentials_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_Credentials_Warning</name>
+                </fields>
+                <name>Select_Credentials_Warning_Screen</name>
+            </screens>
+        </flows>
+        <fullName>cmcSf__Distribute_Package_Environment</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <choices>
+                <name>Existing_Story_Choice</name>
+            </choices>
+            <choices>
+                <name>New_Story_Choice</name>
+            </choices>
+            <choices>
+                <name>SecurityTypeAllUsers</name>
+            </choices>
+            <choices>
+                <name>SecurityTypeOnlyForAdmins</name>
+            </choices>
+            <screens>
+                <fields>
+                    <name>Advanced_Installation_Options</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Advanced_Installation_Options_Column1</name>
+                </fields>
+                <fields>
+                    <name>Confirm_Package_Details_Header</name>
+                </fields>
+                <fields>
+                    <name>Confirm_Package_Selection_Screen_Section1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_Package_Selection_Screen_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_Package_Selection_Screen_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>Package_Details</name>
+                </fields>
+                <fields>
+                    <name>Package_Version_Details</name>
+                </fields>
+                <fields>
+                    <name>Security_Type</name>
+                </fields>
+                <name>Confirm_Package_Selection_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>existingUserStoryId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Confirm_User_Story</name>
+                </fields>
+                <fields>
+                    <name>Confirm_User_Story_Header</name>
+                </fields>
+                <name>Confirm_User_Story_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Create_User_Story</name>
+                </fields>
+                <fields>
+                    <name>Create_User_Story_Header</name>
+                </fields>
+                <name>Create_User_Story_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Fault_Message</name>
+                </fields>
+                <name>Error_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Navigate_To_User_Story</name>
+                </fields>
+                <name>Navigate_To_User_Story_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>fieldApiName</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>objectApiName</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>required</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Select_Existing_User_Story</name>
+                </fields>
+                <name>Select_Existing_User_Story_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_Project</name>
+                </fields>
+                <fields>
+                    <name>Select_Project_Header</name>
+                </fields>
+                <name>Select_Project_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_Project_Warning</name>
+                </fields>
+                <name>Select_Project_Warning_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Select_User_Story_Type</name>
+                </fields>
+                <name>Select_User_Story_Type_Screen</name>
+            </screens>
+        </flows>
+        <fullName>cmcSf__Distribute_Package_Pipeline</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__EvaluateApexTestsAcceptanceCriteria</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__GetPackageVersionWithKey</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__ImportPackageAndVersions</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Initialize_Salesforce_Project_Screen</name>
+                </fields>
+                <name>SFDX_Project_Configuration_Input_Screen1</name>
+            </screens>
+        </flows>
+        <fullName>cmcSf__Initialize_Git_For_Salesforce_Project</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__InitiatePipelineDistribution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Initiate_Classic_Pipeline_Distribution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Installed_Package_Callback</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__PackageVersionRecordCreationUpdates</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__PublishPackageVersionCallback</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>failure</name>
+            </textTemplates>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+            <textTemplates>
+                <name>success</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__Publish_Event</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Refresh_Metadata</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__RetrieveApexTestsSelectionFileId</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__SetApexTestLevel</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__SetSourceEnvironmentOnApexTestJobExecution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Test_Record_Automation</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__UpdateDestinationOnJobExecution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__UpdatePackage</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__UpdatePackageRequisite</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__UpdatePackageVersion</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__UpdatePackageVersionRequisite</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Update_Conflict_Resolution_File</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Error</name>
+                </fields>
+                <name>Empty_Subscriber_Version_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>message</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>messageData</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>mode</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>title</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>variant</name>
+                        <value/>
+                    </inputParameters>
+                    <name>showToastMessage</name>
+                </fields>
+                <name>Show_Toast_Message</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Branch</name>
+                </fields>
+                <fields>
+                    <name>Description</name>
+                </fields>
+                <fields>
+                    <name>Tag</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>Version_Name</name>
+                </fields>
+                <name>Update_Version_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Error_Message</name>
+                </fields>
+                <name>Validate_Package_Version_Update</name>
+            </screens>
+        </flows>
+        <fullName>cmcSf__Update_Package_Version_Info</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>cmcSf__Update_Source_on_Job_Execution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>cmcSf__Update_Validation_Id_on_Promotion</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>copado_devops_ai_companion</name>
+                </fields>
+                <name>Conversation_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copadoAiHelper__Copado_DevOps_AI_Companion</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>faultPayload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copadoQuality__EvaluatePMDAcceptanceCriteria</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>failure</name>
+            </textTemplates>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+            <textTemplates>
+                <name>success</name>
+            </textTemplates>
+        </flows>
+        <fullName>copadoQuality__Publish_Copado_Event</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>faultPayload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copadoQuality__RetrieveBranchesAndFileIdForPMDScan</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copadoQuality__RunCrtTests</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copadoQuality__SetRepositoryForPMDScan</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copadoQuality__SetSourceEnvironmentOnCrtJobExecution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Action_Callback_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Add_Pre_fetched_volume</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Automation_Engine</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>clonePipeline</name>
+                </fields>
+                <name>Clone_Pipeline</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>View_Record</name>
+                </fields>
+                <name>Success</name>
+            </screens>
+        </flows>
+        <fullName>copado__Clone_Pipeline</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>GoToClonedAutomation</name>
+                </fields>
+                <name>Clone_Template</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <fields>
+                    <name>UnexpectedError</name>
+                </fields>
+                <name>Display_Error</name>
+            </screens>
+        </flows>
+        <fullName>copado__Clone_Template</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Amount_of_pre_cloned_workers</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>Ask_Configuration_Options_Section1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Ask_Configuration_Options_Section1_Column1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Ask_Configuration_Options_Section1_Column2</name>
+                </fields>
+                <fields>
+                    <name>ConfigureInstruction</name>
+                </fields>
+                <fields>
+                    <name>Expiration_time_Hrs</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>GitRepositoryName</name>
+                </fields>
+                <fields>
+                    <name>OrganisationInstancesLimitStatus</name>
+                </fields>
+                <fields>
+                    <name>Settings</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Settings_Column1</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>width</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Settings_Column2</name>
+                </fields>
+                <fields>
+                    <name>Storage_size_GB</name>
+                    <validationRule/>
+                </fields>
+                <fields>
+                    <name>ValidationErrorOnActivate</name>
+                </fields>
+                <name>Ask_Configuration_Options</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Confirmation</name>
+                </fields>
+                <name>ConfirmScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>DisablePrefetchVolume</name>
+                </fields>
+                <fields>
+                    <name>ValidationErrorOfDisable</name>
+                </fields>
+                <name>Confirm_Disabeling_Prefetch_volume</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Disclaimer</name>
+                </fields>
+                <name>Disclaimer_PreFetch_Volume</name>
+            </screens>
+            <textTemplates>
+                <name>PreFetchedConfigJson</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Configure_Prefetch_Volume</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Delete_Versions_Warning_Message</name>
+                </fields>
+                <name>Delete_Old_Versions_Warning</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Permission_Error_Message_Text</name>
+                </fields>
+                <name>Permission_Error_Screen</name>
+            </screens>
+            <textTemplates>
+                <name>Delete_Versions_Permission_Error_Message_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Delete_Versions_Warning_Message_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Delete_Old_Content_Versions</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>No_Valid_Files_Message</name>
+                </fields>
+                <name>Data_Set_Has_No_Valid_Files_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Deploy_Data_Set_Help_Text</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>required</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Destination_Credential</name>
+                </fields>
+                <name>Deploy_Data_Set</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Destination_Org_Not_Valid_Message</name>
+                </fields>
+                <name>Destination_Org_Not_Valid_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Source_Org_Not_Valid_Message</name>
+                </fields>
+                <name>Source_Org_Not_Valid_Screen</name>
+            </screens>
+            <textTemplates>
+                <name>Destination_Org_Not_Valid_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>No_Valid_Files_Template</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Source_Org_Not_Valid_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Deploy_Data_Set</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>CredentialDoOauth</name>
+                </fields>
+                <name>Do_Oauth</name>
+            </screens>
+        </flows>
+        <fullName>copado__Do_Oauth</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>InstructionOutput</name>
+                </fields>
+                <fields>
+                    <name>Notes</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>messageToggleActive</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>messageToggleInactive</name>
+                        <value/>
+                    </inputParameters>
+                    <name>isSuccessCheckbox</name>
+                </fields>
+                <name>ExecuteManualStep</name>
+            </screens>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__ExecuteManualStep</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Execute_Immediately</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>required</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Source_Org_Credential</name>
+                </fields>
+                <fields>
+                    <name>Source_Target_Credentials_Help_Text</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>required</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Target_Org_Credential</name>
+                </fields>
+                <name>Execute_Automation_Template</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Execution_Error_Message</name>
+                </fields>
+                <name>Execute_Automation_Template_Error_Message</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Execution_Success_Message</name>
+                </fields>
+                <name>Execute_Automation_Template_Success_Message</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Error_Message</name>
+                </fields>
+                <name>Invalid_Org_Crendentials_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Execute_Automation_Template_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>ErrorValidation_LWC</name>
+                </fields>
+                <name>ErrorScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>editValuesOnly</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>target</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Function_Parameters</name>
+                </fields>
+                <name>Execute_Function</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>functionResult</name>
+                </fields>
+                <name>SuccessScreen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Execute_Function</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Execute_Next_Job_Step</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <fields>
+                    <name>UnexpectedError</name>
+                </fields>
+                <name>Display_Error</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>DisplayFile</name>
+                </fields>
+                <name>Exported_File</name>
+            </screens>
+        </flows>
+        <fullName>copado__Export_Template</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Generate_Data_Set_Help_Text</name>
+                </fields>
+                <fields>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>required</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Source_Credential</name>
+                </fields>
+                <name>Generate_Data_Set</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Org_Not_Valid_Message</name>
+                </fields>
+                <name>Org_Not_Valid_Screen</name>
+            </screens>
+            <textTemplates>
+                <name>Finish_Message</name>
+            </textTemplates>
+            <textTemplates>
+                <name>Org_Not_Valid_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Generate_Data_Set</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Display_SCA_RuleSet</name>
+                </fields>
+                <name>DisplaySCARules</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Warning</name>
+                </fields>
+                <name>WarnOverwriteOfRules</name>
+            </screens>
+            <textTemplates>
+                <name>SCAWarningMessage</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Generate_Default_Static_Code_Analysis_Ruleset</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Get_Namespace</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Get_Promotion_User_Story_Names</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Error_Message_Text</name>
+                </fields>
+                <name>Error_Message_Screen</name>
+            </screens>
+            <textTemplates>
+                <name>Error_Message_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Handle_Flow_Fault</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <fields>
+                    <name>UnexpectedError</name>
+                </fields>
+                <name>Display_Error</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>accept</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>contentDocIds</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>disabled</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>label</name>
+                        <value/>
+                    </inputParameters>
+                    <inputParameters>
+                        <name>multiple</name>
+                        <value/>
+                    </inputParameters>
+                    <name>UploadFiles</name>
+                </fields>
+                <name>File_Upload</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>DisplayAutomation</name>
+                </fields>
+                <name>View_Record</name>
+            </screens>
+        </flows>
+        <fullName>copado__Import_Template</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Job_Engine_Orchestrator</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Job_Step_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__MCCallbackHandlerTestFlow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Metadata_Type</name>
+                </fields>
+                <fields>
+                    <name>Operator_Choice</name>
+                </fields>
+                <fields>
+                    <name>Value</name>
+                </fields>
+                <name>New_Metadata_Item</name>
+            </screens>
+        </flows>
+        <fullName>copado__New_Metadata_Item</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>CredentialDXOperation</name>
+                </fields>
+                <name>DX_Operation_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Open_Copodo_DX_Panel</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>CredentialOpenOrg</name>
+                </fields>
+                <name>Open_Org_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Open_Credential</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__OrchestrateApexTestExecution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__PerformUserStoryActions</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__PromotionDeployAction_UpdateUserStoriesEnvironment</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__QueueOrcestrator</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Result_Monitor_Result_Progress_Status_Change</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Result_Monitor_Result_is_Created</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Result_Monitor_Step_Is_Created</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <textTemplates>
+                <name>payload</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Result_Monitor_Step_Result_Is_Updated</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>ErrorResponse</name>
+                </fields>
+                <name>DisplayError</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>SuccessfulResponse</name>
+                </fields>
+                <name>DisplayResult</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>recordId</name>
+                        <value/>
+                    </inputParameters>
+                    <name>runManualTestsLWC</name>
+                </fields>
+                <name>ManualTestExecution</name>
+            </screens>
+        </flows>
+        <fullName>copado__RunSingleTest</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <name>Error_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>SuccessMessage</name>
+                </fields>
+                <name>Success_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Run_All_Test_For_Credential</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <name>Error_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>SuccessMessage</name>
+                </fields>
+                <name>Success_Message</name>
+            </screens>
+        </flows>
+        <fullName>copado__Run_Compliance_Scan_For_Credential</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>FaultMessage</name>
+                </fields>
+                <name>Error_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>SuccessMessage</name>
+                </fields>
+                <name>Success_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copado__Run_Static_Code_Analysis_For_Credential</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Deployment_Executed_Message</name>
+                </fields>
+                <name>Deployment_Executed_Screen</name>
+            </screens>
+            <textTemplates>
+                <name>Deployment_Executed_Template</name>
+            </textTemplates>
+        </flows>
+        <fullName>copado__Show_Deployment_Executed_Message</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>DisplayError</name>
+                </fields>
+                <name>ErrorScreen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>SuccessMessage</name>
+                </fields>
+                <name>Success</name>
+            </screens>
+        </flows>
+        <fullName>copado__StartExecution</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Update_Release_and_Team_on_User_Story_Dependency</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__Update_User_Story_Status</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copado__User_Story_Commit_outdates_latest_Validation</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Error_Message</name>
+                </fields>
+                <name>Error</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>isFlow</name>
+                        <value/>
+                    </inputParameters>
+                    <name>VSMRecalculation</name>
+                </fields>
+                <name>Recalculating</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__Recalculate_VSM</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Error_Snapshots</name>
+                </fields>
+                <name>Generate_Snapshots_Error</name>
+            </screens>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>isFlow</name>
+                        <value/>
+                    </inputParameters>
+                    <name>Snapshot_Modal</name>
+                </fields>
+                <name>Snapshot_View</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__Snapshot_Generator_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copadovsm__Update_Value_Stream_Map_Activation_Date_Time</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>Modal_Message</name>
+                </fields>
+                <name>Activation_Screen</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>Error_Message</name>
+                </fields>
+                <name>Error</name>
+            </screens>
+            <screens>
+                <fields>
+                    <name>InValid_Message</name>
+                </fields>
+                <name>Invalid_Screen</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__VSM_Activation_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>isNew</name>
+                        <value/>
+                    </inputParameters>
+                    <name>VSM_Metric_Configuration</name>
+                </fields>
+                <name>VSM_Metric_Modal</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__VSM_Metric_Configuration_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <inputParameters>
+                        <name>isNew</name>
+                        <value/>
+                    </inputParameters>
+                    <name>VSM_New_Metric</name>
+                </fields>
+                <name>VSM_New_Metric_Modal</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__VSM_New_Metric_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows/>
+        <fullName>copadovsm__VSM_Recalculation_Flow</fullName>
+    </flowDefinitions>
+    <flowDefinitions>
+        <flows>
+            <screens>
+                <fields>
+                    <name>VSM_Threshold_Flow</name>
+                </fields>
+                <name>VSM_Threshold</name>
+            </screens>
+        </flows>
+        <fullName>copadovsm__VSM_Threshold_Flow</fullName>
+    </flowDefinitions>
+    <prompts>
+        <name>LicenseManagerWalkThrough</name>
+        <promptVersions>
+            <name>License Manager WalkthroughDeactivated Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>DataSetWalkthrough</name>
+        <promptVersions>
+            <name>Data Set Walkthrough Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+    </prompts>
+    <prompts>
+        <name>LicenseManagerWalkThroughForRMApp</name>
+        <promptVersions>
+            <name>License Manager Walkthrough for Release Manager app Step 1</name>
+            <stepNumber>1</stepNumber>
+        </promptVersions>
+    </prompts>
+    <quickActions>
+        <label><!-- Bug --></label>
+        <name>Bug</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Unused Bug --></label>
+        <name>Custom_Bug</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Unused Story --></label>
+        <name>Custom_Story</name>
+    </quickActions>
     <quickActions>
         <label><!-- Guest Community Case --></label>
         <name>GuestCommunityCase</name>
@@ -18490,4 +20569,195 @@
         <label><!-- SendEmail --></label>
         <name>SendEmail</name>
     </quickActions>
+    <quickActions>
+        <label><!-- Story --></label>
+        <name>Story</name>
+    </quickActions>
+    <reportTypes>
+        <description><!-- Functions with Results --></description>
+        <label><!-- Functions with Results --></label>
+        <name>Functions_with_Results</name>
+        <sections>
+            <label><!-- Functions --></label>
+            <name>Functions</name>
+        </sections>
+        <sections>
+            <label><!-- Results --></label>
+            <name>Results</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Git Backups --></description>
+        <label><!-- Git Backups --></label>
+        <name>Git_Backups</name>
+        <sections>
+            <label><!-- Git Backups --></label>
+            <name>Git Backups</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Opportunities with Quotes with Quote Documents --></description>
+        <label><!-- Opportunities with Quotes with Quote Documents --></label>
+        <name>Opportunities_with_Quotes_with_Quote_Documents</name>
+        <sections>
+            <label><!-- Opportunities --></label>
+            <name>Opportunities</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Opportunities with Quotes with Quote Line Groups --></description>
+        <label><!-- Opportunities with Quotes with Quote Line Groups --></label>
+        <name>Opportunities_with_Quotes_with_Quote_Line_Groups</name>
+        <sections>
+            <label><!-- Opportunities --></label>
+            <name>Opportunities</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Opportunities with Quotes with Quote Lines --></description>
+        <label><!-- Opportunities with Quotes with Quote Lines --></label>
+        <name>Opportunities_with_Quotes_with_Quote_Lines</name>
+        <sections>
+            <label><!-- Opportunities --></label>
+            <name>Opportunities</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Org Credentials with Snapshot Commits with User Story Commits --></description>
+        <label><!-- Org Credentials with Snapshot Commits with User Story Commits --></label>
+        <name>Org_Credentials_with_Snapshot_Commits_with_User_Story_Commits</name>
+        <sections>
+            <label><!-- Org Credentials --></label>
+            <name>Org Credentials</name>
+        </sections>
+        <sections>
+            <label><!-- Snapshot Commits --></label>
+            <name>Snapshot Commits</name>
+        </sections>
+        <sections>
+            <label><!-- User Story Commits --></label>
+            <name>User Story Commits</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orgs with Git Backups --></description>
+        <label><!-- Orgs with Git Backups --></label>
+        <name>Orgs_with_Git_Backups</name>
+        <sections>
+            <label><!-- Git_Backups --></label>
+            <name>Git_Backups</name>
+        </sections>
+        <sections>
+            <label><!-- Orgs --></label>
+            <name>Orgs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Selenium Test Results --></description>
+        <label><!-- Selenium Test Results --></label>
+        <name>Selenium_Test_Results</name>
+        <sections>
+            <label><!-- Selenium Test Results --></label>
+            <name>Selenium Test Results</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- User Stories with Pull Requests with Pull Request Reviews --></description>
+        <label><!-- User Stories with Pull Requests with Pull Request Reviews --></label>
+        <name>User_Stories_with_Pull_Requests_with_Pull_Request_Reviews</name>
+        <sections>
+            <label><!-- Pull Request Reviews --></label>
+            <name>Pull Request Reviews</name>
+        </sections>
+        <sections>
+            <label><!-- Pull Requests --></label>
+            <name>Pull Requests</name>
+        </sections>
+        <sections>
+            <label><!-- User Stories --></label>
+            <name>User Stories</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Run Logs Spring &apos;24 --></description>
+        <label><!-- Orchestration Run Logs Spring &apos;24 --></label>
+        <name>flow_orchestration_log_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Run Log --></label>
+            <name>Orchestration Run Log</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Runs --></label>
+            <name>Orchestration Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Stage Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Stage Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_stage_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Stage Runs --></label>
+            <name>Orchestration Stage Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Step Runs Spring &apos;24 --></description>
+        <label><!-- Orchestration Step Runs Spring &apos;24 --></label>
+        <name>flow_orchestration_step_run_ootb_crt_two_four_eight</name>
+        <sections>
+            <label><!-- Orchestration Step Runs --></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Orchestration Work Items Spring &apos;24 --></description>
+        <label><!-- Orchestration Work Items Spring &apos;24 --></label>
+        <name>flow_orchestration_work_item_ootb_crt_two_four_eight</name>
+        <sections>
+            <columns>
+                <label><!-- Orchestration Step Run: Label --></label>
+                <name>Orchestration Step Run: Label</name>
+            </columns>
+            <columns>
+                <label><!-- Orchestration Step Run: Name --></label>
+                <name>Orchestration Step Run: Name</name>
+            </columns>
+            <columns>
+                <label><!-- Orchestration Step Run: Status --></label>
+                <name>Orchestration Step Run: Status</name>
+            </columns>
+            <label><!-- Orchestration Step Runs --></label>
+            <name>Orchestration Step Runs</name>
+        </sections>
+        <sections>
+            <columns>
+                <label><!-- Assigned Group or Queue --></label>
+                <name>Assigned Group or Queue</name>
+            </columns>
+            <columns>
+                <label><!-- Assigned User --></label>
+                <name>Assigned User</name>
+            </columns>
+            <label><!-- Orchestration Work Items --></label>
+            <name>Orchestration Work Items</name>
+        </sections>
+    </reportTypes>
+    <reportTypes>
+        <description><!-- Screen Flows --></description>
+        <label><!-- Screen Flows --></label>
+        <name>screen_flows_prebuilt_crt</name>
+        <sections>
+            <label><!-- Flow Interview Log Entries --></label>
+            <name>Flow Interview Log Entries</name>
+        </sections>
+        <sections>
+            <label><!-- Flow Interview Logs --></label>
+            <name>Flow Interview Logs</name>
+        </sections>
+    </reportTypes>
 </Translations>

@@ -4,6 +4,13 @@
         <plural>false</plural>
         <value>設定ルール</value>
     </caseValues>
+    <layouts>
+        <layout>Configuration Rule Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>ルール番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Condition Level only supported for Validation, Alert and Selection product rules. --></errorMessage>

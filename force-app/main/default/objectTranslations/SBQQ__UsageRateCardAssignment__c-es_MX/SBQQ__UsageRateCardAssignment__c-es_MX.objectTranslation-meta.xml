@@ -9,5 +9,12 @@
         <value>Asignaciones de tarjeta de intervalo de uso (Reservado)</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Usage Rate Card Assignment Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Número</nameFieldLabel>
 </CustomObjectTranslation>

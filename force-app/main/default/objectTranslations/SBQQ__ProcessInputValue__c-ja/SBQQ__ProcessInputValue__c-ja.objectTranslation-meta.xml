@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>プロセス入力値</value>
     </caseValues>
+    <layouts>
+        <layout>Process Input Values Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>見積プロセス値名</nameFieldLabel>
 </CustomObjectTranslation>

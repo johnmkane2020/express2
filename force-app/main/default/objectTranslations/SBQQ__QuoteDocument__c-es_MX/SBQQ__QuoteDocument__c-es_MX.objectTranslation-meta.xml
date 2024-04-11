@@ -9,6 +9,13 @@
         <value>Documentos de presupuesto</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Quote Document Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de documento</nameFieldLabel>
     <webLinks>
         <label><!-- Email --></label>

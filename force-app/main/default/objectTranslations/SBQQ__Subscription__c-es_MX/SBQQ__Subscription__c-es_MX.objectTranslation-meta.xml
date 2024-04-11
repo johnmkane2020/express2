@@ -17,6 +17,25 @@
         <name>SBQQ__SubscriptionSearchResults</name>
     </fieldSets>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Subscription Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Información de precios</label>
+            <section>Pricing Info</section>
+        </sections>
+        <sections>
+            <label>Información de renovación</label>
+            <section>Renewal Info</section>
+        </sections>
+        <sections>
+            <label>Información de segmento</label>
+            <section>Segment Info</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº de suscripción</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Preserve Bundle Structure is checked on Contract, Renewal Quantity cannot be different from Quantity. --></errorMessage>
