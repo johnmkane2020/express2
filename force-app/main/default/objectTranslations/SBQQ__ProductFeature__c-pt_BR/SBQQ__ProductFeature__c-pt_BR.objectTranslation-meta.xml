@@ -13,6 +13,13 @@
         <name>SBQQ__Configurator</name>
     </fieldSets>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Product Feature Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nome do recurso</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Min Options cannot be negative. --></errorMessage>

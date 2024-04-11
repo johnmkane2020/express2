@@ -4,6 +4,42 @@
         <plural>false</plural>
         <value><!-- Static Code Analysis Result --></value>
     </caseValues>
+    <layouts>
+        <layout>CodeScan SCA Layout</layout>
+        <sections>
+            <label>解決</label>
+            <section>Resolution</section>
+        </sections>
+        <sections>
+            <label>深刻度</label>
+            <section>Severity</section>
+        </sections>
+        <sections>
+            <label>タイプ</label>
+            <section>Type</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Static Code Analysis Result Layout</layout>
+        <sections>
+            <label><!-- Analysis Details --></label>
+            <section>Analysis Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>V.17 - Static Code Analysis Result Layout</layout>
+        <sections>
+            <label><!-- Analysis Details --></label>
+            <section>Analysis Details</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>V.17 CodeScan SCA Layout</layout>
+        <sections>
+            <label><!-- CodeScan Details --></label>
+            <section>CodeScan Details</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Static Code Analysis Result Name --></nameFieldLabel>
     <recordTypes>
         <description><!-- Record Type for CodeScan integration. Requires CodeScan licensing. --></description>

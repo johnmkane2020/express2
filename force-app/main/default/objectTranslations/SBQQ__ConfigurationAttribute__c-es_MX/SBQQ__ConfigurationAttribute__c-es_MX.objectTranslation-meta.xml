@@ -9,6 +9,20 @@
         <value>Atributos de configuración</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Configuration Attribute Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Global Attribute Layout</layout>
+        <sections>
+            <label>Vínculos personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nombre de atributo</nameFieldLabel>
     <recordTypes>
         <description><!-- Configuration Attribute associated to a product --></description>

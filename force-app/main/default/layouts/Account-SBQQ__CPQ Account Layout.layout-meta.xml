@@ -27,8 +27,8 @@
                 <field>ParentId</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>New_Field_1__c</field>
+                <behavior>Required</behavior>
+                <field>Copado_External_ID__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

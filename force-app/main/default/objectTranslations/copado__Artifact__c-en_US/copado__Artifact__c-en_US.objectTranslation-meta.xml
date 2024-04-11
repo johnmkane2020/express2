@@ -4,6 +4,55 @@
         <label><!-- SFDX Package Lightning Page --></label>
         <name>cmcSf__SFDX_Package_CustomFields</name>
     </fieldSets>
+    <layouts>
+        <layout>Package Artifact Layout</layout>
+        <sections>
+            <label><!-- Package Details --></label>
+            <section>Package Details</section>
+        </sections>
+        <sections>
+            <label><!-- Package Metadata Content --></label>
+            <section>Package Metadata Content</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Package Layout</layout>
+        <sections>
+            <label><!-- Package Details --></label>
+            <section>Package Details</section>
+        </sections>
+        <sections>
+            <label><!-- Package Metadata Content --></label>
+            <section>Package Metadata Content</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>User Story Bundle</layout>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Distribute Package --></label>
+        <name>cmcSf__Distribute_Package</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Package --></label>
+        <name>cmcSf__GeneratePackageSFDX</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Create Package Version --></label>
+        <name>copado__CreatePackageVersion</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Edit Configuration --></label>
+        <name>copado__EditConfiguration</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Generate Package --></label>
+        <name>copado__GeneratePackage</name>
+    </quickActions>
     <recordTypes>
         <description><!-- Version Control System centric package --></description>
         <label><!-- Git Package --></label>

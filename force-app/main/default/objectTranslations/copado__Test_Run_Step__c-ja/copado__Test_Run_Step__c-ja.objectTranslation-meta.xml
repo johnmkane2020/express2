@@ -8,5 +8,12 @@
         <label><!-- TestRunExecutionFieldSet --></label>
         <name>copado__TestRunExecutionFieldSet</name>
     </fieldSets>
+    <layouts>
+        <layout>Test Execution Step Layout</layout>
+        <sections>
+            <label>新セクション</label>
+            <section>New Section</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Test Run Step Name --></nameFieldLabel>
 </CustomObjectTranslation>

@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value><!-- User Story Commit --></value>
     </caseValues>
+    <layouts>
+        <layout>User Story Commit Layout</layout>
+        <sections>
+            <label><!-- Commit Information --></label>
+            <section>Commit Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- US Commit --></nameFieldLabel>
 </CustomObjectTranslation>

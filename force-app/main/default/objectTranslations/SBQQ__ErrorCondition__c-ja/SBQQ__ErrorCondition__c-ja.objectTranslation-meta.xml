@@ -4,6 +4,17 @@
         <plural>false</plural>
         <value>エラー条件</value>
     </caseValues>
+    <layouts>
+        <layout>Error Condition Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>条件情報</label>
+            <section>Filter Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>条件番号</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- A Filter Type of &apos;Variable&apos; must have a Filter Variable. --></errorMessage>

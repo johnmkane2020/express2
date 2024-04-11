@@ -4,7 +4,22 @@
         <plural>false</plural>
         <value><!-- Function --></value>
     </caseValues>
+    <layouts>
+        <layout>Function Layout</layout>
+        <sections>
+            <label>コールバック</label>
+            <section>Callback</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- Function Name --></nameFieldLabel>
+    <quickActions>
+        <label><!-- Clone Function --></label>
+        <name>copado__Clone_Function</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Execute Function --></label>
+        <name>copado__Execute_Function</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- Api name can only contain alphanumeric characters and must begin with a letter --></errorMessage>
         <name>copado__Function_Name_must_Be_Alpha_Numeric</name>

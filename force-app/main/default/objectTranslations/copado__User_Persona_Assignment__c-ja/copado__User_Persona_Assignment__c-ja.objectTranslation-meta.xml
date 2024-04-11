@@ -4,6 +4,13 @@
         <plural>false</plural>
         <value><!-- User Persona Assignment --></value>
     </caseValues>
+    <layouts>
+        <layout>User Persona Assignment Layout</layout>
+        <sections>
+            <label>ステータスの詳細</label>
+            <section>Status Details</section>
+        </sections>
+    </layouts>
     <nameFieldLabel><!-- User Persona Assignment Ref --></nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Cannot  specify End and Start time for Permanent permissions. --></errorMessage>

@@ -9,6 +9,13 @@
         <value>Formatos de importação</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Import Format Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº do formato de importação</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- More than 1 unique key defined in Import Column. --></errorMessage>

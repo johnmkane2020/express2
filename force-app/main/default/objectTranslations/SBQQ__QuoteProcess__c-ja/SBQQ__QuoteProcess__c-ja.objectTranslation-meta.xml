@@ -4,5 +4,12 @@
         <plural>false</plural>
         <value>見積プロセス</value>
     </caseValues>
+    <layouts>
+        <layout>Quote Process Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>プロセス名</nameFieldLabel>
 </CustomObjectTranslation>

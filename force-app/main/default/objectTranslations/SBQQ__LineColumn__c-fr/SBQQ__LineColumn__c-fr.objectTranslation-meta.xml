@@ -9,6 +9,21 @@
         <value>Colonnes de ligne</value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Line Column Layout</layout>
+        <sections>
+            <label>Options de colonne</label>
+            <section>Column Options</section>
+        </sections>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Informations sur le style</label>
+            <section>Style Information</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Titre de la colonne</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <webLinks>

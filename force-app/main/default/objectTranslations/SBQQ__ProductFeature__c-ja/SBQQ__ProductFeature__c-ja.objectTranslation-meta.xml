@@ -8,6 +8,13 @@
         <label><!-- Configurator --></label>
         <name>SBQQ__Configurator</name>
     </fieldSets>
+    <layouts>
+        <layout>Product Feature Layout</layout>
+        <sections>
+            <label>カスタムリンク</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>機能名</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Min Options cannot be negative. --></errorMessage>

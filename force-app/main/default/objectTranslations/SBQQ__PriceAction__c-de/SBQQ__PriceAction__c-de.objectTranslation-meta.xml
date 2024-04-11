@@ -41,6 +41,17 @@
         <value><!-- Preisaktionen --></value>
     </caseValues>
     <gender>Feminine</gender>
+    <layouts>
+        <layout>Price Action Layout</layout>
+        <sections>
+            <label>Benutzerdefinierte Links</label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label>Preisaktionsquellen</label>
+            <section>Price Action Sources</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Aktionsnummer</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Price Action Target Object does not match Evaluation Scope --></errorMessage>

@@ -9,6 +9,13 @@
         <value>Ensembles d&apos;attributs produit</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Product Attribute Set Layout</layout>
+        <sections>
+            <label>Liens personnalisés</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Ensemble d&apos;attributs produit</nameFieldLabel>
     <startsWith>Vowel</startsWith>
 </CustomObjectTranslation>

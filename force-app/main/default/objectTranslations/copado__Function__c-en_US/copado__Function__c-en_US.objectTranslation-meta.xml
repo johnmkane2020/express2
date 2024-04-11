@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Function Layout</layout>
+        <sections>
+            <label><!-- Callback --></label>
+            <section>Callback</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Clone Function --></label>
+        <name>copado__Clone_Function</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Execute Function --></label>
+        <name>copado__Execute_Function</name>
+    </quickActions>
     <validationRules>
         <errorMessage><!-- Api name can only contain alphanumeric characters and must begin with a letter --></errorMessage>
         <name>copado__Function_Name_must_Be_Alpha_Numeric</name>

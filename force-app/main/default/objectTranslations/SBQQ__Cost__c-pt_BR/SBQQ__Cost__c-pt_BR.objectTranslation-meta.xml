@@ -9,5 +9,12 @@
         <value>Custos</value>
     </caseValues>
     <gender>Masculine</gender>
+    <layouts>
+        <layout>Cost Layout</layout>
+        <sections>
+            <label>Links personalizados</label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
     <nameFieldLabel>Nº do custo</nameFieldLabel>
 </CustomObjectTranslation>
