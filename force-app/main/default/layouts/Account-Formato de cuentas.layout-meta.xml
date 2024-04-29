@@ -19,6 +19,18 @@
                 <behavior>Edit</behavior>
                 <field>ParentId</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Copado_External_ID__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>DevSecOps_Level__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Easy__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -142,11 +154,6 @@
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
-            <actionName>NewOpportunity</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>0</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>NewEvent</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>1</sortOrder>
@@ -155,6 +162,11 @@
             <actionName>FeedItem.TextPost</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>2</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>NewOpportunity</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>0</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>FeedItem.ContentPost</actionName>
@@ -182,6 +194,11 @@
             <sortOrder>7</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>CallHighlightAction</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>26</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>FeedItem.ContentNote</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>8</sortOrder>
@@ -190,6 +207,11 @@
             <actionName>FeedItem.RypplePost</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>9</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>SmsHighlightAction</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>27</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>FeedItem.LinkPost</actionName>
@@ -242,6 +264,11 @@
             <sortOrder>19</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>Edit</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>20</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>JigsawSearch</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>21</sortOrder>
@@ -250,11 +277,6 @@
             <actionName>PartnerScorecard</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>22</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>Edit</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>20</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>IncludeOffline</actionName>
@@ -270,16 +292,6 @@
             <actionName>ChangeOwnerOne</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>25</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>CallHighlightAction</actionName>
-            <actionType>ProductivityAction</actionType>
-            <sortOrder>26</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>SmsHighlightAction</actionName>
-            <actionType>ProductivityAction</actionType>
-            <sortOrder>27</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>EmailHighlightAction</actionName>
