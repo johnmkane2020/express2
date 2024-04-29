@@ -29,6 +29,10 @@
                 <behavior>Required</behavior>
                 <field>Copado_External_ID__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Speed__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
