@@ -48,8 +48,12 @@
                 <field>SBQQ__ConfiguredDescriptionPattern__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>Copado_External_ID__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Value__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
