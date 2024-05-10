@@ -3,9 +3,9 @@
     <fullName>Priority_Level__c</fullName>
     <externalId>false</externalId>
     <label>Priority Level</label>
-    <precision>2</precision>
+    <precision>4</precision>
     <required>false</required>
-    <scale>1</scale>
+    <scale>2</scale>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>
