@@ -3,9 +3,9 @@
     <fullName>Value__c</fullName>
     <externalId>false</externalId>
     <label>Value</label>
-    <precision>2</precision>
+    <precision>4</precision>
     <required>false</required>
-    <scale>0</scale>
+    <scale>1</scale>
     <trackHistory>false</trackHistory>
     <type>Number</type>
     <unique>false</unique>
